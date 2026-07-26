@@ -95,10 +95,6 @@ Analyzed:
 
 ![Traffic by Hour](images/traffic_by_hour.png)
 
-### Traffic Volume by Weather
-
-![Traffic by Weather](images/traffic_by_weather.png)
-
 ### Correlation Heatmap
 
 ![Correlation Heatmap](images/correlation_heatmap.png)
