@@ -128,21 +128,31 @@ Random Forest Regressor achieved the best performance with an R² Score of **0.9
 ---
 
 ## Project Structure
+
+```
 urban-traffic-congestion-prediction/
 
 │
 ├── data/
-│ └── raw/
-│ └── Metro_Interstate_Traffic_Volume.csv
+│   └── raw/
+│       └── Metro_Interstate_Traffic_Volume.csv
 │
 ├── notebooks/
-│ └── 01_traffic_data_analysis.ipynb
+│   └── 01_traffic_data_analysis.ipynb
 │
 ├── models/
-│ └── traffic_volume_prediction_model.zip
+│   └── traffic_volume_prediction_model.zip
+│
+├── images/
+│   ├── traffic_distribution.png
+│   ├── traffic_by_hour.png
+│   ├── traffic_by_weather.png
+│   ├── correlation_heatmap.png
+│   └── actual_vs_predicted.png
 │
 ├── README.md
----
+└── requirements.txt
+```
 
 ## How to Run
 
