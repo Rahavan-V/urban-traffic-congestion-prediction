@@ -85,6 +85,27 @@ Analyzed:
 - Weekly traffic trends
 - Weather impact on traffic
 - Feature correlations
+- ## Visualizations
+
+### Traffic Volume Distribution
+
+![Traffic Distribution](images/traffic_distribution.png)
+
+### Traffic Volume by Hour
+
+![Traffic by Hour](images/traffic_by_hour.png)
+
+### Traffic Volume by Weather
+
+![Traffic by Weather](images/traffic_by_weather.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Actual vs Predicted Traffic Volume
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
 ### 5. Machine Learning Models
 
